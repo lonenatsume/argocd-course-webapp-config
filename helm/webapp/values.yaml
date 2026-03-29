@@ -8,7 +8,7 @@ image:
   repository: lonenatsume/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 5167295738c9cdda094e4ee79f54b8aa31424084
+  tag: dd48deb47be6dc97a6c76e47da3e1908bdcd7116
 
 imagePullSecrets: []
 nameOverride: ""
